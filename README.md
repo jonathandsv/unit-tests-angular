@@ -1,1 +1,1 @@
-# Repositotory to trainne tests in angular
+# Repository to trainne tests in angular
